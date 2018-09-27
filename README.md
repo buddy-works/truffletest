@@ -1,0 +1,2 @@
+# truffletest
+truffle test project
